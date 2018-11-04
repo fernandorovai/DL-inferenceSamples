@@ -4,10 +4,10 @@ https://medium.com/@fernandorodriguesjunior/speed-up-inceptionv3-inference-time-
 
 <table>
     <tr>
-        <td width=300><img src="https://github.com/fernandorovai/DL-inferenceSamples/tree/master/OpenVINO/InceptionV3/docs/selectedImages2fpsTF_CPU32.gif"/></td>
-        <td width=300><img src="https://github.com/fernandorovai/DL-inferenceSamples/tree/master/OpenVINO/InceptionV3/docs/selectedImages16fpsOV_CPU32.gif"/></td>
-        <td width=300><img src="https://github.com/fernandorovai/DL-inferenceSamples/tree/master/OpenVINO/InceptionV3/docs/selectedImages23fpsOV_iGPU32.gif"/></td>
-        <td width=400><img src="https://github.com/fernandorovai/DL-inferenceSamples/tree/master/OpenVINO/InceptionV3/docs/selectedImages36fpsOV_iGPU16.gif"/></td>
+        <td width=300><img src="https://github.com/fernandorovai/DL-inferenceSamples/blob/master/OpenVINO/InceptionV3/docs/selectedImages2fpsTF_CPU32.gif"/></td>
+        <td width=300><img src="https://github.com/fernandorovai/DL-inferenceSamples/blob/master/OpenVINO/InceptionV3/docs/selectedImages16fpsOV_CPU32.gif"/></td>
+        <td width=300><img src="https://github.com/fernandorovai/DL-inferenceSamples/blob/master/OpenVINO/InceptionV3/docs/selectedImages23fpsOV_iGPU32.gif"/></td>
+        <td width=400><img src="https://github.com/fernandorovai/DL-inferenceSamples/blob/master/OpenVINO/InceptionV3/docs/selectedImages36fpsOV_iGPU16.gif"/></td>
     </tr>
     <tr>
         <td colspan=2>
