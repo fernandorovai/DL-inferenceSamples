@@ -54,7 +54,7 @@ https://medium.com/@fernandorodriguesjunior/speed-up-inceptionv3-inference-time-
 ## Benchmarks
 <table>
 <tr>
-<td colspan="3"><img src="https://github.com/fernandorovai/DL-inferenceSamples/tree/master/OpenVINO/InceptionV3/docs/InceptionV3-Inference-Core i7-7500U.png"/></td>
+<td colspan="3"><img src="https://github.com/fernandorovai/DL-inferenceSamples/blob/master/OpenVINO/InceptionV3/docs/InceptionV3-Inference-Core i7-7500U.png"/></td>
 </tr>
 </table>
 
